@@ -1,0 +1,1 @@
+[v_mod] = LCSMODELgi(r,d, l, theta,w)
